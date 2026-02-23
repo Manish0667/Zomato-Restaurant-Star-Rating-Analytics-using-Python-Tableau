@@ -2,9 +2,12 @@
 ### Marketing Analytics Capstone Project | Python + Tableau
 
 ---
-## 📷 Dashboard Preview
+## 📸 Dashboard Preview
 
-![Dashboard Screenshot](Zomato_Star_Restaurant_Dashboard.png)
+<p align="center">
+  <img width="100%" alt="Zomato_Star_Restaurant_Dashboard.png"
+  src="https://github.com/user-attachments/assets/44f3cd50-e8ea-4971-9452-aa9bd1407217" />
+</p>
 
 ---
 
